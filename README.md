@@ -1,14 +1,21 @@
-## Hello 👋
+# Hello, World! 👋
 
-I'm an enthusiastic coder, I turn my innovative ideas to functional reality.
+I'm a passionate coder who transforms innovative ideas into functional realities.
 
-### Technologies & Tools
+## Education
+- Currently pursuing a Diploma in Computer Engineering
+
+## Proficiency in Technologies & Tools
 - Python
 - SQLite
 - HTML
 - TailwindCSS
 - Vanilla Javascript
 - Linux
+
+## Areas of Professional Interest
+- Artificial Intelligence
+- Automation
 
 ### External Links:
 - [PyPI - Python Package Index ↗](https://pypi.org/user/Sijey/)

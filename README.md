@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm a passionate coder who transforms innovative ideas into functional realities.
+I'm a passionate self-taught programmer.
 
 ## Education
 - Currently pursuing a Diploma in Computer Engineering

@@ -7,10 +7,9 @@ I'm a passionate self-taught programmer.
 
 ## Proficiency in Technologies & Tools
 - Python
-- SQLite
-- HTML
-- TailwindCSS
-- Vanilla Javascript
+- UI/UXDesign(Figma)
+- Web Development (HTML, TailwindCSS, Vanilla JavaScript)
+- Database (SQLite, MYSql)
 - Linux
 
 ## Areas of Professional Interest

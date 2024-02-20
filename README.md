@@ -8,7 +8,7 @@ I'm a passionate self-taught programmer.
 ## Proficiency in Technologies & Tools
 - Python (Object-oriented Programming)
 - HTML
-- CSS / TailwindCSS
+- CSS | TailwindCSS
 - SQLite
 - Linux
 

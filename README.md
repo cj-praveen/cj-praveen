@@ -7,11 +7,13 @@ I'm a passionate self-taught programmer.
 
 ## Proficiency in Technologies & Tools
 - Python (Object-oriented programming)
+- Web Scraping
 - HTML | CSS | TailwindCSS
 - SQLite
 - Linux
 
 ## Areas of Professional Interest
+- Python Programming
 - Artificial Intelligence
 - Machine Learning
 

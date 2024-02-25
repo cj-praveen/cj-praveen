@@ -6,9 +6,8 @@ I'm a passionate self-taught programmer.
 - Currently pursuing a Diploma in Computer Engineering
 
 ## Proficiency in Technologies & Tools
-- Python (Object-oriented Programming)
-- HTML
-- CSS | TailwindCSS
+- Python (Object-oriented programming)
+- HTML | CSS | TailwindCSS
 - SQLite
 - Linux
 
